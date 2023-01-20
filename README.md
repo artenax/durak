@@ -4,6 +4,8 @@
 
 Rules are described on [Wikipedia](https://en.wikipedia.org/wiki/Durak).
 
+![durak](https://user-images.githubusercontent.com/107228652/213781200-48f5b510-a65a-4027-b8a6-1bcffdfa24ec.png)
+
 ## Run
 
 ```bash
